@@ -1,0 +1,6 @@
+framework module Pods_Kingfisher_library_URL_image {
+  umbrella header "Pods-Kingfisher library URL image-umbrella.h"
+
+  export *
+  module * { export * }
+}
